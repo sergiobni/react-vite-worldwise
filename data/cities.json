@@ -1,40 +1,136 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Belena",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2024-02-29T13:47:16.924Z",
+      "notes": "beleneando",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "40.730608477796636",
+        "lng": "-5.646972656250001"
       },
-      "id": 17806751
+      "id": 98443198
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Xixona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T13:50:06.390Z",
+      "notes": "turron",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "38.53097889440024",
+        "lng": "-0.43945312500000006"
       },
-      "id": 98443197
+      "id": 98443199
+    },
+    {
+      "cityName": "Aljustrel",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-29T13:54:34.141Z",
+      "notes": "",
+      "position": {
+        "lat": "37.85750715625203",
+        "lng": "-8.239746093750002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Satao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-29T13:55:04.581Z",
+      "notes": "",
+      "position": {
+        "lat": "40.730608477796636",
+        "lng": "-7.690429687500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Satao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-29T13:55:04.581Z",
+      "notes": "",
+      "position": {
+        "lat": "40.730608477796636",
+        "lng": "-7.690429687500001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Satao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-02-29T13:55:04.581Z",
+      "notes": "",
+      "position": {
+        "lat": "40.730608477796636",
+        "lng": "-7.690429687500001"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "El Viso",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T13:55:04.581Z",
+      "notes": "",
+      "position": {
+        "lat": "38.548165423046584",
+        "lng": "-4.94384765625"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Jaen",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T13:56:41.945Z",
+      "notes": "",
+      "position": {
+        "lat": "37.75334401310659",
+        "lng": "-3.7573242187500004"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T13:57:59.868Z",
+      "notes": "",
+      "position": {
+        "lat": "41.73852846935917",
+        "lng": "-0.9008789062500001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "San Vicente de la Barquera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T14:03:01.675Z",
+      "notes": "",
+      "position": {
+        "lat": "43.389081939117496",
+        "lng": "-4.416503906250001"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Lugo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T14:04:16.130Z",
+      "notes": "",
+      "position": {
+        "lat": "43.03677585761058",
+        "lng": "-7.470703125000001"
+      },
+      "id": 98443210
     }
   ]
 }
