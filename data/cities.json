@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Belena",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-29T13:47:16.924Z",
-      "notes": "beleneando",
-      "position": {
-        "lat": "40.730608477796636",
-        "lng": "-5.646972656250001"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Xixona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-02-29T13:50:06.390Z",
-      "notes": "turron",
-      "position": {
-        "lat": "38.53097889440024",
-        "lng": "-0.43945312500000006"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Aljustrel",
       "country": "Portugal",
       "emoji": "🇵🇹",
@@ -131,6 +107,30 @@
         "lng": "-7.470703125000001"
       },
       "id": 98443210
+    },
+    {
+      "cityName": "Huete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T15:14:36.283Z",
+      "notes": "",
+      "position": {
+        "lat": "40.094882122321174",
+        "lng": "-2.6806640625"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Iniesta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-29T15:21:09.676Z",
+      "notes": "",
+      "position": {
+        "lat": "39.436192999314095",
+        "lng": "-1.6918945312500002"
+      },
+      "id": 98443212
     }
   ]
 }
